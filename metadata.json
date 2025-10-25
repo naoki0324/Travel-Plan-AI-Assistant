@@ -1,0 +1,5 @@
+{
+  "name": "Travel Plan AI Assistant",
+  "description": "An AI assistant to help you adjust your travel plans on the fly due to unforeseen events like rain or train delays. Input your original plan and constraints, and the AI will suggest a new itinerary.",
+  "requestFramePermissions": []
+}
